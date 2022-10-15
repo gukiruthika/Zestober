@@ -18,6 +18,5 @@ public class PrintAlphabets {
 			System.out.println();
 			k++;
 		}
-		
 	}
 }
