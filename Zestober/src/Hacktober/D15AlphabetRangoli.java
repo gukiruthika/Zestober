@@ -3,10 +3,10 @@ package Hacktober;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class AlphabetRangoli {
+public class D15AlphabetRangoli {
 
 	public static void main(String[] args) {
-		AlphabetRangoli alphabetRangoli =  new AlphabetRangoli();
+		D15AlphabetRangoli alphabetRangoli =  new D15AlphabetRangoli();
 		alphabetRangoli.pattern();
 	}
 	void pattern() {

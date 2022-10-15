@@ -2,10 +2,10 @@ package Hacktober;
 
 import java.util.Scanner;
 
-public class OccurrencesOf4 {
+public class D01OccurrencesOf4 {
 
 	public static void main(String[] args) {
-		OccurrencesOf4 task = new OccurrencesOf4();
+		D01OccurrencesOf4 task = new D01OccurrencesOf4();
 		task.process();
 	}
 	void process() {

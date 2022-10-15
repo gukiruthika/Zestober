@@ -2,10 +2,10 @@ package Hacktober;
 
 import java.util.Scanner;
 
-public class EachCharacterToStringD11 {
+public class D11EachCharacterToString {
 
 	public static void main(String[] args) {
-		EachCharacterToStringD11 task = new EachCharacterToStringD11();
+		D11EachCharacterToString task = new D11EachCharacterToString();
 		task.display();
 	}
 	void display() {

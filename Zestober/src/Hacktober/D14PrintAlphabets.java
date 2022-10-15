@@ -1,6 +1,6 @@
 package Hacktober;
 
-public class PrintAlphabets {
+public class D14PrintAlphabets {
 
 	public static void main(String args[]) {
 		printAlphabets();

@@ -2,10 +2,10 @@ package Hacktober;
 
 import java.util.Scanner;
 
-public class SumOfFirstAndLastD2 {
+public class D2SumOfFirstAndLast {
 
 	public static void main(String[] args) {
-		SumOfFirstAndLastD2 task = new SumOfFirstAndLastD2();
+		D2SumOfFirstAndLast task = new D2SumOfFirstAndLast();
 		System.out.println(task.addTwo());
 	}
 
